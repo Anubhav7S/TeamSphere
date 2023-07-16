@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270461866569",
+    "project_id": "teamsphere-ead0f",
+    "storage_bucket": "teamsphere-ead0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270461866569:android:3286d8a9e74f0441f46598",
+        "android_client_info": {
+          "package_name": "com.example.teamsphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270461866569-256drvt22ntjhjr158gmtu95orrg643u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Z4vUGFqjMKHS-hmLxvwkiMfPspEFj3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270461866569-256drvt22ntjhjr158gmtu95orrg643u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

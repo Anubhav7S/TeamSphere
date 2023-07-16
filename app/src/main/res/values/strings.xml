@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TeamSphere</string>
+    <string name="lets_get_started">Let\'s get started!</string>
+    <string name="intro_text_desc">Collaborate effortlessly on projects with TeamSphere. Foster real-time collaboration, track progress, and achieve project goals with ease."</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="img_content_desc">Image</string>
+
+    <!-- Sign Up Screen-->
+    <string name="signupText">Enter your name, email ID and password</string>
+    <string name="name">Name</string>
+    <string name="emailID">Email</string>
+    <string name="password">Password</string>
+    <string name="signinText">Enter your email ID and password</string>
+
+    <!-- Base -->
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="please_click_again_to_exit">Please click back again to exit.</string>
+
+    <!-- Nav_Header_Main -->
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+
+    <!-- My Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="mobile">Mobile</string>
+    <string name="update">Update</string>
+
+    <!-- Create Board -->
+    <string name="create_board_title">Create Board</string>
+    <string name="create">CREATE</string>
+    <string name="board_name">Board Name</string>
+
+    <!-- Main Content-->
+    <string name="noBoards">No Boards Are Available!</string>
+
+    <!-- Item_Task -->
+    <string name="addList">Add List</string>
+    <string name="list_name">List Name</string>
+    <string name="card_name">Card Name</string>
+    <string name="add_card">Add Card</string>
+    <string name="members">Members</string>
+
+    <!-- Dialog Box -->
+    <string name="add_member">Add Member</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+
+    <!-- Card Details -->
+    <string name="label_colour">Label Color</string>
+    <string name="select_color">Select Color</string>
+    <string name="select_members">Select Members</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="delete_card">Delete Card</string>
+    
+    <string name="alert">Alert</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <string name="confirmation_message_to_delete_card">Are you sure that you want to delete this card \'%1$s\'?</string>
+    <string name="str_select_label_color">Select Label Color</string>
+    <string name="select_member">Select Member</string>
+    <string name="default_notification_channel_id">teamsphere_notification_channel_id</string>
+</resources>
